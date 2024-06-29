@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ElonJung
+- 👀 I’m interested in learn programming
+- 🌱 I’m currently learning python
+- 📫 How to reach me elonmjung@gmail.com
+- ⚡ Fun fact: I like pizza
